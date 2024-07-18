@@ -21,5 +21,6 @@ Entrypoint serving as a useful link portal for Elsa Lab members and alumni.
 
 ## Miscellaneous
 
+- [Elsa Lab Website](https://elsalab.ai/about)
 - [ELSA LAB Facebook Group](https://www.facebook.com/groups/1121617037898481/about)
 - [Elsa Lab GitHub Organization](https://github.com/elsa-lab)
