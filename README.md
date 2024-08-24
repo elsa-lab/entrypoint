@@ -13,6 +13,7 @@ Entrypoint serving as a useful link portal for Elsa Lab members and alumni.
 
 ## Robotics Related
 
+- [Robotics ROS2 Codebase](https://github.com/j3soon/ros2-essentials)
 - [Robot Setup Notes](https://github.com/elsa-lab/robot-setup-notes)
 
 ## Graduation Related
